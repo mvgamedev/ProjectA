@@ -1,8 +1,13 @@
 # Project A - Ausgründung - Prototyping
 
-Copyright (c) 2023 by Matthias Voigt contact@mvgamedev.com
+Copyright (c) 2023 by Lenja Raschke lenjaraschke@gmx.de
+
+Copyright (c) 2023 by Raphael Sindermann raphael.sindermann@gmail.com
 
 Copyright (c) 2023 by Sebastian Voigt dschingez@hotmail.de
+
+Copyright (c) 2023 by Matthias Voigt contact@mvgamedev.com
+
 
 
 Required Software
@@ -18,5 +23,9 @@ ___
 ## Relevant Links
 
 [Commits](https://github.com/mvgamedev/ProjectA/commits/main)
+
+[Miro](https://miro.com/app/board/uXjVMcAUU-g=/)
+
+[Trello](https://trello.com/b/JjbSClrq/projekt-a)
 
 
